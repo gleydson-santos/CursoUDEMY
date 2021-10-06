@@ -24,6 +24,8 @@ public class ProjetoLivro {
         System.out.println(l[0].detalhes());
         System.out.println(l[1].detalhes());
 
+        System.out.println(l[1].detalhes());
+
 
     }
 

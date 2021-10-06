@@ -11,6 +11,7 @@ public class Cliente {
     ArrayList<Compra> compras = new ArrayList<>();
 
     Cliente(String nome){
+
         this.nome = nome;
     }
 
